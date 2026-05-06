@@ -43,6 +43,24 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the application.
 
+## Interface Screenshots
+
+![Home Page](public/screenshots/VarsityHub.png)
+
+<p align="center">
+  <img src="public/screenshots/VarsityHub%20(1).png" width="48%" />
+  <img src="public/screenshots/VarsityHub%20(2).png" width="48%" />
+</p>
+
+<p align="center">
+  <img src="public/screenshots/VarsityHub%20(3).png" width="48%" />
+  <img src="public/screenshots/VarsityHub%20(4).png" width="48%" />
+</p>
+
+<p align="center">
+  <img src="public/screenshots/VarsityHub%20(5).png" width="48%" />
+</p>
+
 ## Project Structure
 
 - `app/` - Next.js App Router pages and layouts.
@@ -56,3 +74,16 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Note
 
 This application is built with mock data representing a typical university structure. It does not connect to a live backend database, ensuring it is lightweight, quick to set up, and acts as a demonstration of frontend implementation patterns using Next.js and Tailwind CSS.
+
+---
+
+### 🚀 Contact & Services
+
+Need a **Full Stack Web Application** (Frontend + Backend) with:
+- ✅ Zero Hosting Cost
+- ✅ Highly Scalable Architecture (Up to 100K+ Traffic)
+- ✅ Modern Performance Optimization
+
+Feel free to reach out for high-quality project development:
+📧 **Email**: [hasansarker58@gmail.com](mailto:hasansarker58@gmail.com)
+
