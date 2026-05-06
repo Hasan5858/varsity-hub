@@ -80,10 +80,13 @@ This application is built with mock data representing a typical university struc
 ### 🚀 Contact & Services
 
 Need a **Full Stack Web Application** (Frontend + Backend) with:
-- ✅ Zero Hosting Cost
-- ✅ Highly Scalable Architecture (Up to 100K+ Traffic)
+- ✅ Zero Hosting Cost (Using highly optimized free-tier solutions)
+- ✅ Highly Scalable Architecture (Free resources handles 100K+ monthly traffic)
 - ✅ Modern Performance Optimization
+
+*My hosting solutions are specialized to handle 100K+ traffic easily within free resources for projects like VarsityHub. For significantly higher traffic needs, scalable transition options are available.*
 
 Feel free to reach out for high-quality project development:
 📧 **Email**: [hasansarker58@gmail.com](mailto:hasansarker58@gmail.com)
+
 
